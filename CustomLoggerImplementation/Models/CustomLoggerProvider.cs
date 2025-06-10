@@ -44,5 +44,6 @@
         // Dispose method for cleaning up any resources if necessary.
         // In this simple example, there are no resources to dispose of, so the method is left empty.
         public void Dispose() { }
+
     }
 }
